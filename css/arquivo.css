@@ -1,0 +1,16 @@
+body{
+  background-color: white;
+
+}
+.botoes{
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer; /* Altera o cursor para um ponteiro quando o mouse passa por cima */
+  margin: 5px;
+
+ 
+}
+
